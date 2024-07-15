@@ -30,4 +30,8 @@ Our website features a Smart Search functionality that allows users to search fo
 - **Backend -**<br>
 [![My Skills](https://skillicons.dev/icons?i=flask,python)](https://skillicons.dev)
 
+<<<<<<< HEAD
 **This marks the end of our implementation.**
+=======
+**This marks the end of our implementation.**
+>>>>>>> 711daeef09228eefe347e43cdd8d78307141e70a
