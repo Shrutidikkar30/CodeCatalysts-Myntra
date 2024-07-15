@@ -3,7 +3,7 @@
 
 This repository is made for the sole purpose of Myntra HackerRamp: WeForShe
 
-![Logo](/Code/myntrahackerramp.jpeg)
+![Hackerr](https://user-images.githubusercontent.com/64279181/113337916-0ffa7c80-9346-11eb-833d-570329426875.png)
 
 ## Presented By:
 
