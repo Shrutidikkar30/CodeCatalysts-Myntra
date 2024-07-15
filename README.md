@@ -4,7 +4,7 @@
 This repository is made for the sole purpose of Myntra HackerRamp: WeForShe
 
 ![Logo](/Code/myntrahackerramp.jpeg)
-
+<img src="/Code/myntrahackerramp.jpeg" alt="Example Image" style="max-width: 100%;">
 
 ## Presented By:
 
