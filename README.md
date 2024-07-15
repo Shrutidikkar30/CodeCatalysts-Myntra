@@ -4,7 +4,6 @@
 This repository is made for the sole purpose of Myntra HackerRamp: WeForShe
 
 ![Logo](/Code/myntrahackerramp.jpeg)
-<img src="/Code/myntrahackerramp.jpeg" alt="Example Image" style="max-width: 100%;">
 
 ## Presented By:
 
@@ -27,7 +26,7 @@ Our website features a Smart Search functionality that allows users to search fo
 
 ## 🛠 TECH STACK
 - **Frontend -**<br>
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,react)](https://skillicons.dev) <br>
 - **Backend -**<br>
 [![My Skills](https://skillicons.dev/icons?i=flask,python)](https://skillicons.dev)
 
